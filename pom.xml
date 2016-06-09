@@ -3,7 +3,7 @@
 
 	<groupId>com.github.mauricioaniche</groupId>
 	<artifactId>springlint-maven-plugin</artifactId>
-	<version>0.4-SNAPSHOT</version>
+	<version>0.3</version>
 	<packaging>maven-plugin</packaging>
 
 	<name>SpringLint Maven Plugin</name>
